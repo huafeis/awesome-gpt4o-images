@@ -22,7 +22,7 @@ npm install
 ### Generate README for Chinese
 
 ```bash
-npm run generate
+npm run generate-zh
 ```
 
 ### Generate README for English
@@ -34,7 +34,7 @@ npm run generate-en
 ### Generate README for both languages
 
 ```bash
-npm run generate-all
+npm run generate
 ```
 
 ## 📁 Project Structure
