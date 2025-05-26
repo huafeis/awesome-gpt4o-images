@@ -22,7 +22,7 @@ npm install
 ### Generate README for Chinese
 
 ```bash
-npm run generate
+npm run generate-zh
 ```
 
 ### Generate README for English
@@ -34,7 +34,7 @@ npm run generate-en
 ### Generate README for both languages
 
 ```bash
-npm run generate-all
+npm run generate
 ```
 
 ## 📁 Project Structure
@@ -56,4 +56,4 @@ npm run generate-all
 
 ## 📝 Note
 
-This tool only processes directories with numeric names in the `cases` folder. Each of these directories should contain a `case.yaml` file with case information and a image file.
+This tool only processes directories with numeric names in the `cases` folder. Each of these directories should contain a `case.yml` file with case information and a image file.

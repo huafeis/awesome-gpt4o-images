@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 # Awesome GPT-4o Images ✨
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
 <a href="https://github.com/jamez-bondos/awesome-gpt4o-images/stargazers">
@@ -9,18 +10,15 @@
 
 🎉 欢迎来到 GPT‑4o 图片精选！
 
-这里收集了 OpenAI 最新多模态模型 GPT‑4o 生成图片的精彩案例和提示词。
+这是一个精选的 GPT-4o 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 
-案例主要来源于 Twitter/X 🐦，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
-
-OpenAI 最新尖端图像模型 gpt‑image‑1 已发布，图像生成能力更加强大，通过 API 调用提供服务。
+案例主要来源于 Twitter/X 🐦 和 Sora 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
 <strong>另外，来自OpenAI官方发布的 gpt‑image‑1 模型的数十个精彩案例，由本项目精心整理和翻译，查看请戳👇</strong>
 
 - 中文版：[OpenAI gpt-image-1: 40 个精选图像案例及提示词](./gpt-image-1/gpt-image-1.md)
 - 英文版：[OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
 
-*注：gpt‑image‑1 和 GPT‑4o 都是 OpenAI 的最新图像生成产品，背后的支持模型是大致相同的。不同的是 gpt‑image‑1 仅提供 API 访问，且 gpt‑image‑1 目前较新一些。*
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
@@ -59,6 +57,22 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases-toc"></a>
 ## 📖 案例目录
 
+*   [案例 100：实物与手绘涂鸦创意广告 (by @azed_ai)](#cases-100)
+*   [案例 99：黑白肖像艺术 (by @ZHO_ZHO_ZHO)](#cases-99)
+*   [案例 98：磨砂玻璃后的虚实对比剪影 (by @umesh_ai)](#cases-98)
+*   [案例 97：可爱温馨针织玩偶 (by @ZHO_ZHO_ZHO)](#cases-97)
+*   [案例 96：定制动漫手办 (by @dotey)](#cases-96)
+*   [案例 95：自拍生成摇头娃娃 (by @thisdudelikesAI)](#cases-95)
+*   [案例 94：三只动物与地标自拍 (by @berryxia_ai)](#cases-94)
+*   [案例 93：玻璃质感重塑 (by @egeberkina)](#cases-93)
+*   [案例 92：透视3D出屏效果 (by @ZHO_ZHO_ZHO)](#cases-92)
+*   [案例 91：谷歌地图变身古代藏宝图 (by @umesh_ai)](#cases-91)
+*   [案例 90：品牌化键盘键帽 (by @egeberkina)](#cases-90)
+*   [案例 89：镀铬emoji徽章 (by @egeberkina)](#cases-89)
+*   [案例 88：儿童涂色页插画（含彩色参考图） (by @dotey)](#cases-88)
+*   [案例 87：字母与单词含义融合 (by @dotey)](#cases-87)
+*   [案例 86：双重曝光 (by rezzycheck (Sora))](#cases-86)
+*   [案例 85：超现实交互场景 (by @umesh_ai)](#cases-85)
 *   [案例 84：动物硅胶腕托 (by @ZHO_ZHO_ZHO)](#cases-84)
 *   [案例 83：发光线条解剖图 (by @umesh_ai)](#cases-83)
 *   [案例 82：特色城市天气预报 (by @dotey)](#cases-82)
@@ -78,7 +92,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 68：未来主义 Logo 交易卡 (by @hewarsaber)](#cases-68)
 *   [案例 67：超写实3D游戏 (by @ZHO_ZHO_ZHO)](#cases-67)
 *   [案例 66：创意丝绸宇宙 (by @ZHO_ZHO_ZHO)](#cases-66)
-*   [案例 65：Trompe-l'œil 三维空间艺术 (by @madpencil_)](#cases-65)
+*   [案例 65：奇幻水下场景冰棒 (by @madpencil_)](#cases-65)
 *   [案例 64：蒸汽朋克机械鱼 (by @f-is-h)](#cases-64)
 *   [案例 63：Emoji 奶油雪糕 (by @ZHO_ZHO_ZHO)](#cases-63)
 *   [案例 62：可爱珐琅别针 (by @gnrlyxyz)](#cases-62)
@@ -88,7 +102,7 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 58：云彩艺术 (by @umesh_ai)](#cases-58)
 *   [案例 57：8位像素图标 (by @egeberkina)](#cases-57)
 *   [案例 56：迷你 3D 建筑 (by @dotey)](#cases-56)
-*   [案例 55：低多边形 (Low-Poly) 3D 渲染 (by @azed_ai)](#cases-55)
+*   [案例 55：创意绿植花盆 (by @azed_ai)](#cases-55)
 *   [案例 54：“极其平凡”的iPhone自拍 (by @jiamimaodashu)](#cases-54)
 *   [案例 53：Emoji 充气感靠垫 (by @gizakdag)](#cases-53)
 *   [案例 52：纸艺风格 Emoji 图标 (by @egeberkina)](#cases-52)
@@ -106,12 +120,12 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 40：日系双格漫画 (少女总统红温了) (by @hellokaton)](#cases-40)
 *   [案例 39：奇幻卡通插画 (by @dotey)](#cases-39)
 *   [案例 38：手绘信息图卡片 (by @dotey)](#cases-38)
-*   [案例 37：社交媒体帖子涂鸦 (by @op7418)](#cases-37)
+*   [案例 37：柔和风格3D广告 (by @aziz4ai)](#cases-37)
 *   [案例 36：极简主义 3D 插画 (Markdown 格式) (by @dotey)](#cases-36)
 *   [案例 35：毛茸茸南瓜灯 (by gizakdag)](#cases-35)
 *   [案例 34：手绘信息图卡片 (by @dotey)](#cases-34)
 *   [案例 33：全家福婚纱照 (by @balconychy)](#cases-33)
-*   [案例 32：纸艺剪贴风格招聘广告 (by @dotey)](#cases-32)
+*   [案例 32：折叠式纸雕立体绘本 (by @dotey)](#cases-32)
 *   [案例 31：动漫贴纸集合 (by @richardchang)](#cases-31)
 *   [案例 30：35mm 胶片风格飞岛 (by @dotey)](#cases-30)
 *   [案例 29：名画人物 OOTD (by @ZHO_ZHO_ZHO)](#cases-29)
@@ -122,19 +136,19 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 *   [案例 24：Funko Pop 公仔制作 (by @dotey)](#cases-24)
 *   [案例 23：《泰坦尼克号》模仿 (by @balconychy)](#cases-23)
 *   [案例 22：小红书封面 (by @balconychy)](#cases-22)
-*   [案例 21：简笔画表情包 (by @ZHO_ZHO_ZHO)](#cases-21)
-*   [案例 20：四格漫画 (相对论) (by @dotey)](#cases-20)
-*   [案例 19：语文课本重绘 (by @balconychy)](#cases-19)
+*   [案例 21：Q版角色表情包 (by @leon_yuan2001)](#cases-21)
+*   [案例 20：手办与真人同框 (by @dotey)](#cases-20)
+*   [案例 19：玩具盒中的国家立体模型 (by @TheRelianceAI)](#cases-19)
 *   [案例 18：皮克斯3D风格 (by AnimeAI)](#cases-18)
-*   [案例 17：数码宝贝风格图 (by @ZHO_ZHO_ZHO)](#cases-17)
-*   [案例 16：布丁老虎机 (by @ZHO_ZHO_ZHO)](#cases-16)
+*   [案例 17：复古CRT电脑启动屏幕 (by @Gdgtify)](#cases-17)
+*   [案例 16：二次元风格徽章 (by @Alittlefatwhale)](#cases-16)
 *   [案例 15：讽刺海报生成 (by @ZHO_ZHO_ZHO)](#cases-15)
 *   [案例 14：《海贼王》主题手办制作 (by @dotey)](#cases-14)
 *   [案例 13：3D Q版风格 (by @dotey)](#cases-13)
 *   [案例 12：3D 情侣珠宝盒摆件 (by @dotey)](#cases-12)
 *   [案例 11：PS2 游戏封面 (GTA x Shrek) (by @dotey)](#cases-11)
 *   [案例 10：讽刺漫画生成 (by @dotey)](#cases-10)
-*   [案例 9：气球名画 (by @ZHO_ZHO_ZHO)](#cases-9)
+*   [案例 9：极简未来主义海报 (by @ZHO_ZHO_ZHO)](#cases-9)
 *   [案例 8：乐高收藏品 (by @ZHO_ZHO_ZHO)](#cases-8)
 *   [案例 7：个性化房间设计 (by @ZHO_ZHO_ZHO)](#cases-7)
 *   [案例 6：角色穿越传送门 (by @dotey)](#cases-6)
@@ -149,12 +163,418 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 <a id="cases"></a>
 ## 🧩 案例
 
+<a id="cases-100"></a>
+### 案例 100：实物与手绘涂鸦创意广告 (by [@azed_ai](https://x.com/azed_ai))
+
+[原文链接](https://x.com/azed_ai/status/1923016036120658122)
+
+<img src="cases/100/creative-ad-real-object-hand-drawn-doodle.png" width="300" alt="实物与手绘涂鸦创意广告"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
+
+**提示词**
+
+```
+一则简约且富有创意的广告，设置在纯白背景上。
+一个真实的 [真实物体] 与手绘黑色墨水涂鸦相结合，线条松散而俏皮。涂鸦描绘了：[涂鸦概念及交互：以巧妙、富有想象力的方式与物体互动]。在顶部或中部加入粗体黑色 [广告文案] 文字。在底部清晰放置 [品牌标志]。视觉效果应简洁、有趣、高对比度且构思巧妙。
+```
+
+*注意： 请将提示词中的 [真实物体]、[涂鸦概念及交互]、[广告文案] 和 [品牌标志] 替换为具体内容。
+例如：
+[真实物体]：咖啡豆
+[涂鸦概念及交互]：巨型咖啡豆变成一个太空行星，一个小宇航员站在其表面上，并插上旗帜
+[广告文案]：“Explore Bold Flavor”
+[品牌标志]：星巴克 Logo*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-99"></a>
+### 案例 99：黑白肖像艺术 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1922150692145283299)
+
+<img src="cases/99/harry-potter-black-white-portrait-art.png" width="300" alt="黑白肖像艺术"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+
+**提示词**
+
+```
+高分辨率的黑白肖像艺术作品，采用编辑类和艺术摄影风格。背景呈现柔和渐变效果，从中灰过渡到近乎纯白，营造出层次感与寂静氛围。细腻的胶片颗粒质感为画面增添了一种可触摸的、模拟摄影般的柔和质地，让人联想到经典的黑白摄影。
+
+画面右侧，一个模糊却惊艳的哈利波特面容从阴影中隐约浮现，并非传统的摆拍，而像是被捕捉于思索或呼吸之间的瞬间。他的脸部只露出一部分：也许是一个眼睛、一块颧骨，还有唇角的轮廓，唤起神秘、亲密与优雅之感。他的五官精致而深刻，散发出忧郁与诗意之美，却不显矫饰。
+
+一束温柔的定向光，柔和地漫射开来，轻抚他的面颊曲线，或在眼中闪现光点——这是画面的情感核心。其余部分以大量负空间占据，刻意保持简洁，使画面自由呼吸。画面中没有文字、没有标志——只有光影与情绪交织。
+
+整体氛围抽象却深具人性，仿佛一瞥即逝的目光，或半梦半醒间的记忆：亲密、永恒、令人怅然的美。
+```
+
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-98"></a>
+### 案例 98：磨砂玻璃后的虚实对比剪影 (by [@umesh_ai](https://x.com/umesh_ai))
+
+[原文链接](https://x.com/umesh_ai/status/1921487841634156999)
+
+<img src="cases/98/blurred-silhouette-frosted-glass.png" width="300" alt="磨砂玻璃后的虚实对比剪影"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+
+**提示词**
+
+```
+一张黑白照片，展示了一个[主体]在磨砂或半透明表面后的模糊剪影。其[部分]轮廓清晰，紧贴表面，与其余朦胧、模糊的身影形成鲜明对比。背景是柔和的灰色渐变色调，增强了神秘和艺术的氛围。
+```
+
+*注意： 请在 [主体] 和 [部分] 中填入具体且富有画面感的描述，突出“模糊主体 + 清晰局部”的反差效果。
+例如：[主体] 可写为“手持红色光剑的西斯领主”，[部分] 可写为“另一只聚集暗黑原力的手”。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-97"></a>
+### 案例 97：可爱温馨针织玩偶 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921148024861938077)
+
+<img src="cases/97/cute_cozy_knitted_doll.png" width="300" alt="可爱温馨针织玩偶"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+
+**提示词**
+
+```
+一张特写、构图专业的照片，展示一个手工钩织的毛线玩偶被双手轻柔地托着。玩偶造型圆润，【上传图片】人物得可爱Q版形象，色彩对比鲜明，细节丰富。持玩偶的双手自然、温柔，手指姿态清晰可见，皮肤质感与光影过渡自然，展现出温暖且真实的触感。背景轻微虚化，表现为室内环境，有温暖的木质桌面和从窗户洒入的自然光，营造出舒适、亲密的氛围。整体画面传达出精湛的工艺感与被珍视的温馨情绪。
+```
+
+
+**需上传参考图片：** 上传一张照片作为参考，生成其可爱Q版针织玩偶形象。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-96"></a>
+### 案例 96：定制动漫手办 (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1920851135516082246)
+
+<img src="cases/96/custom-anime-figure-from-photo.png" width="300" alt="定制动漫手办"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+
+**提示词**
+
+```
+生成一张摆放于桌面上的动漫风格手办照片，以日常随手用手机拍摄的轻松休闲视角呈现。手办模型以附件中人物照片为基础，精确还原照片中人物的全身姿势、面部表情以及服装造型，确保手办全身完整呈现。整体设计精致细腻，头发与服饰采用自然柔和的渐变色彩与细腻质感，风格偏向日系动漫风，细节丰富，质感真实，观感精美。
+```
+
+
+**需上传参考图片：** 请上传一张包含人物全身姿势、面部表情及服装造型的照片，用于生成手办模型。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-95"></a>
+### 案例 95：自拍生成摇头娃娃 (by [@thisdudelikesAI](https://x.com/thisdudelikesAI))
+
+[原文链接](https://x.com/thisdudelikesAI/status/1920433372243136730)
+
+<img src="cases/95/selfie-to-bobblehead-generator.png" width="300" alt="自拍生成摇头娃娃"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/thisdudelikesAI">@thisdudelikesAI</a></sub>
+
+**提示词**
+
+```
+将这张照片变成一个摇头娃娃：头部稍微放大，保持面部准确，身体卡通化。[把它放在书架上]。
+```
+
+*注意： 请将提示词中的[把它放在书架上]替换为您想要的特定场景或背景，例如“把它放在书架上”或“把它放在办公桌上”，或“把它放在中性背景上”，或“生成透明背景”。*
+
+**需上传参考图片：** 需要上传一张自拍照作为生成摇头娃娃的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-94"></a>
+### 案例 94：三只动物与地标自拍 (by [@berryxia_ai](https://x.com/berryxia_ai))
+
+[原文链接](https://x.com/berryxia_ai/status/1920795648946782583)
+
+<img src="cases/94/three_animals_selfie_at_landmark.png" width="300" alt="三只动物与地标自拍"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
+
+**提示词**
+
+```
+三只[动物类型]在标志性[地标]前的特写自拍照，它们表情各异，拍摄于黄金时刻，采用电影般的灯光。动物们靠近镜头，头挨着头，模仿自拍姿势，展现出喜悦、惊讶和平静的表情。背景展示了[地标]完整的建筑细节，光线柔和，氛围温暖。采用摄影感、写实卡通风格拍摄，高细节，1:1 宽高比。
+```
+
+*注意： 可替换提示词中的 [动物类型] 和 [地标] 为具体描述。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-93"></a>
+### 案例 93：玻璃质感重塑 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1920448389960909085)
+
+<img src="cases/93/glass_retexturing.png" width="300" alt="玻璃质感重塑"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+
+**提示词**
+
+```
+对参考图片进行重新纹理化，基于下方的 JSON 美学定义
+{
+  "style": "photorealistic 3D render",
+  "material": "glass with transparent and iridescent effects",
+  "surface_texture": "smooth, polished with subtle reflections and refractive effects",
+  "lighting": {
+    "type": "studio HDRI",
+    "intensity": "high",
+    "direction": "angled top-left key light and ambient fill",
+    "accent_colors": ["blue", "green", "purple"],
+    "reflections": true,
+    "refractions": true,
+    "dispersion_effects": true,
+    "bloom": true
+  },
+  "color_scheme": {
+    "primary": "transparent with iridescent blue, green, and purple hues",
+    "secondary": "crystal-clear with subtle chromatic shifts",
+    "highlights": "soft, glowing accents reflecting rainbow-like effects",
+    "rim_light": "soft reflective light around edges"
+  },
+  "background": {
+    "color": "black",
+    "vignette": true,
+    "texture": "none"
+  },
+  "post_processing": {
+    "chromatic_aberration": true,
+    "glow": true,
+    "high_contrast": true,
+    "sharp_details": true
+  }
+}
+```
+
+*注意： 本提示词请使用 GPT-4o 生成图片；使用Sora可能无法生成正确的风格。*
+
+**需上传参考图片：** 需要上传一张图像作为重新纹理化的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-92"></a>
+### 案例 92：透视3D出屏效果 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1920355982703509588)
+
+<img src="cases/92/perspective-3d-pop-out-effect.png" width="300" alt="透视3D出屏效果"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
+
+**提示词**
+
+```
+超写实，从上往下俯视角拍摄，一个美丽的ins模特【安妮海瑟薇 / 见参考图片】，有着精致美丽的妆容和时尚的造型，站在一部被人托起的智能手机屏幕上，画面营造出强烈的透视错觉。强调女孩从手机中站出来的三维效果。她戴着黑框眼镜，穿着高街风，俏皮地摆着可爱的pose。手机屏幕被处理成深色地板，像是一个小舞台。场景使用强烈的强制透视（forced perspective）表现手掌、手机与女孩之间的比例差异。背景为干净的灰色，使用柔和室内光，浅景深，整体风格为超现实写实合成。透视特别强
+```
+
+*注意： 可将提示词中的【安妮海瑟薇】替换为其他人物名称。或者使用一张人物照片作为参考图片。*
+
+**需上传参考图片：** 可使用一张人物照片作为参考图片。本示例的参考图片是[《戴珍珠耳环的少女》](https://commons.wikimedia.org/w/index.php?curid=55017931)。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-91"></a>
+### 案例 91：谷歌地图变身古代藏宝图 (by [@umesh_ai](https://x.com/umesh_ai))
+
+[原文链接](https://x.com/umesh_ai/status/1919701229363466328)
+
+<img src="cases/91/case.png" width="300" alt="谷歌地图变身古代藏宝图"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+
+**提示词**
+
+```
+将图像转换为绘制在古老羊皮纸上的古代藏宝图。地图包含详细的元素，如海洋上的帆船、海岸线上的古老港口或城堡、通向标记宝藏地点的大“X”的虚线路径、山脉、棕榈树和装饰性的罗盘玫瑰。整体风格让人联想到旧时的海盗冒险电影。
+```
+
+
+**需上传参考图片：** 需要上传一张谷歌地图截图或其他地图图片作为转换的基础。
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-90"></a>
+### 案例 90：品牌化键盘键帽 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1918291652210311278)
+
+<img src="cases/90/case.png" width="300" alt="品牌化键盘键帽"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+
+**提示词**
+
+```
+一个超逼真的3D渲染图，展示了四个机械键盘键帽，排列成紧密的2x2网格，所有键帽相互接触。从等轴测角度观察。一个键帽是透明的，上面用红色印刷着“{just}”字样。另外三个键帽采用颜色：{黑色、紫色和白色}。一个键帽上带有Github的Logo。另外两个键帽上分别写着“{fork}”和“{it}”。逼真的塑料纹理，圆润的雕刻键帽，柔和的阴影，干净的浅灰色背景。
+```
+
+*注意： 替换品牌名、标语、键帽颜色*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-89"></a>
+### 案例 89：镀铬emoji徽章 (by [@egeberkina](https://x.com/egeberkina))
+
+[原文链接](https://x.com/egeberkina/status/1919398870867440124)
+
+<img src="cases/89/case.png" width="300" alt="镀铬emoji徽章"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
+
+**提示词**
+
+```
+高精度的 3D 渲染图，按照 emoji 图标 {👍} 展示一个金属质感的徽章，固定在竖直的商品卡片上，具有超光滑的镀铬质感和圆润的 3D 图标造型，风格化的未来主义设计，带有柔和的反光与干净的阴影。纸质卡片顶部中央带有一个冲切的欧式挂孔，徽章上方是醒目的标题 “{Awesome}”，下方配有趣味标语 “{Smash that ⭐ if you like it!}”。背景为柔和的灰色，使用柔光摄影棚灯光，整体风格极简。
+```
+
+*注意： 替换 {👍} emoji 图标；替换标题和标语。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-88"></a>
+### 案例 88：儿童涂色页插画（含彩色参考图） (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1919522110395080838)
+
+<img src="cases/88/case.png" width="300" alt="儿童涂色页插画（含彩色参考图）"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+
+**提示词**
+
+```
+一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。
+【同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考】
+适合人群：【6-9岁小朋友】
+画面描述：
+【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】
+```
+
+*注意： 可替换提示词中的【】内容，例如适合人群和画面描述。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-87"></a>
+### 案例 87：字母与单词含义融合 (by [@dotey](https://x.com/dotey))
+
+[原文链接](https://x.com/dotey/status/1918529055340576812)
+
+<img src="cases/87/case.png" width="300" alt="字母与单词含义融合"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
+
+**提示词**
+
+```
+在字母中融入单词的含义，将图形和字母巧妙融合在一起。
+单词：{ beautify }
+下面加上单词的简要说明
+```
+
+*注意： 替换单词{ beautify }为想要融合的单词*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-86"></a>
+### 案例 86：双重曝光 (by [rezzycheck (Sora)](https://sora.com/explore?user=rezzycheck))
+
+[原文链接](https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw)
+
+<img src="cases/86/double_exposure.png" width="300" alt="双重曝光"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=rezzycheck">rezzycheck (Sora)</a></sub>
+
+**提示词**
+
+```
+双重曝光，Midjourney 风格，融合、混合、叠加的双重曝光图像，双重曝光风格。一幅由 Yukisakura 创作的杰出杰作，展现了一个奇妙的双重曝光构图，将阿拉贡·阿拉松之子的剪影与生机勃勃春季里中土世界视觉上引人注目、崎岖的地貌和谐地交织在一起。沐浴阳光的松树林、山峰和一匹孤独的马穿过小径的景象从他身形的纹理中向外回响，增添了叙事和孤独的层次感。当简洁分明的单色背景保持着锐利的对比度时，美妙的张力逐渐形成，将所有焦点吸引到层次丰富的双重曝光上。其特点是阿拉贡剪影内部充满活力的全彩色方案，以及用情感的精确性描摹每个轮廓的清晰、刻意的线条。(Detailed:1.45). (Detailed background:1.4).
+```
+
+*注意： 中文提示词由英文原文翻译而来，基本能达到预期效果，不过使用英文提示词可能会获得更好的结果。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
+<a id="cases-85"></a>
+### 案例 85：超现实交互场景 (by [@umesh_ai](https://x.com/umesh_ai))
+
+[原文链接](https://x.com/umesh_ai/status/1917444534239191544)
+
+<img src="cases/85/case.png" width="300" alt="超现实交互场景"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
+
+**提示词**
+
+```
+一幅铅笔素描画，描绘了 [Subject 1] 与 [Subject 2] 互动的场景，其中 [Subject 2] 以逼真的全彩风格呈现，与 [Subject 1] 及背景的手绘素描风格形成超现实的对比。
+```
+
+*注意： 替换提示词中的[主体1]和[主体2]为具体的主体描述，例如"一个女孩"和"一朵玫瑰"。*
+
+
+
+---
+
+[⬆️ 返回案例目录](#cases-toc)
+
 <a id="cases-84"></a>
 ### 案例 84：动物硅胶腕托 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574)
 
-<img src="cases/84/case.png" width="300" alt="动物硅胶腕托">
+<img src="cases/84/case.png" width="300" alt="动物硅胶腕托"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -175,7 +595,8 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/umesh_ai/status/1914644426334314545)
 
-<img src="cases/83/case.png" width="300" alt="发光线条解剖图">
+<img src="cases/83/case.png" width="300" alt="发光线条解剖图"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
 
@@ -196,7 +617,8 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1917988595228438771)
 
-<img src="cases/82/example.png" width="300" alt="特色城市天气预报">
+<img src="cases/82/example.png" width="300" alt="特色城市天气预报"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -218,7 +640,8 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/azed_ai/status/1917948899098243407)
 
-<img src="cases/81/example.jpeg" width="300" alt="半透明玻璃质感变换">
+<img src="cases/81/example.png" width="300" alt="半透明玻璃质感变换"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
 
@@ -240,7 +663,8 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接1](https://x.com/umesh_ai/status/1915696926596415492) | [原文链接2](https://x.com/fr0gger_/status/1916743281339498760) | [原文链接3](https://x.com/dotey/status/1917412535130563006)
 
-<img src="cases/80/example_business_card_code_style.png" width="300" alt="代码风格名片">
+<img src="cases/80/example_business_card_code_style.png" width="300" alt="代码风格名片"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
 
@@ -269,7 +693,8 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/dotey/status/1917713810346872902)
 
-<img src="cases/79/example_lego_shanghai_bund.jpeg" width="300" alt="用乐高积木搭建的上海外滩景观">
+<img src="cases/79/example_lego_shanghai_bund.png" width="300" alt="用乐高积木搭建的上海外滩景观"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -290,7 +715,8 @@ GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生
 
 [原文链接](https://x.com/egeberkina/status/1917631056980721743)
 
-<img src="cases/78/example_retexture_glass_phone.jpeg" width="300" alt="玻璃材质重塑">
+<img src="cases/78/example_retexture_glass_phone.png" width="300" alt="玻璃材质重塑"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
 
@@ -328,7 +754,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1916530529324699858)
 
-<img src="cases/77/example_crystal_ball_chang_e.jpeg" width="300" alt="水晶球故事场景">
+<img src="cases/77/example_crystal_ball_chang_e.png" width="300" alt="水晶球故事场景"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -349,7 +776,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://sora.com/g/gen_01jsfxrdpjfpebnyed8yaz42nf)
 
-<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="怀旧动漫风格电影海报">
+<img src="cases/76/example_anime_nostalgic_poster.png" width="300" alt="怀旧动漫风格电影海报"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ">photis (Sora)</a></sub>
 
 **提示词**
 
@@ -371,7 +799,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1917042797506662560)
 
-<img src="cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="社交媒体相框融合">
+<img src="cases/75/example_instagram_frame_pearl_earring.png" width="300" alt="社交媒体相框融合"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -393,7 +822,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/umesh_ai/status/1916517976414495161)
 
-<img src="cases/74/example_logo_bookshelves_composite.jpeg" width="300" alt="Logo 形状创意书架">
+<img src="cases/74/example_logo_bookshelves.png" width="300" alt="Logo 形状创意书架"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
 
@@ -414,7 +844,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/azed_ai/status/1916521742052503804)
 
-<img src="cases/73/example_keychain_chibi_composite.jpeg" width="300" alt="定制Q版钥匙串">
+<img src="cases/73/example_keychain_chibi.png" width="300" alt="定制Q版钥匙串"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
 
@@ -437,7 +868,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/azed_ai/status/1915770501705925106)
 
-<img src="cases/72/gold_pendant_necklace.png" width="300" alt="金色吊坠项链">
+<img src="cases/72/gold_pendant_necklace.png" width="300" alt="金色吊坠项链"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
 
@@ -459,7 +891,8 @@ retexture the image attached based on the json below:
 
 
 
-<img src="cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="從上方俯瞰的超高細節迷你 Cyberpunk 景觀，採用傾斜移軸鏡頭效果">
+<img src="cases/71/example_cyberpunk_tilt_shift_miniature.jpg" width="300" alt="從上方俯瞰的超高細節迷你 Cyberpunk 景觀，採用傾斜移軸鏡頭效果"><br>
+<sub>Image © 2025 <a href="https://github.com/terry623">terry623</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/terry623">terry623</a></sub>
 
 **提示词**
 
@@ -481,7 +914,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/Anima_Labs/status/1915044265895379166)
 
-<img src="cases/70/example_pokemon_pepperimp.jpeg" width="300" alt="原创宝可梦生成">
+<img src="cases/70/example_pokemon_strawbit.png" width="300" alt="原创宝可梦生成"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Anima_Labs">@Anima_Labs</a></sub>
 
 **提示词**
 
@@ -506,7 +940,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/umesh_ai/status/1915417277953962048)
 
-<img src="cases/69/example_silhouette_art_composite.jpeg" width="300" alt="剪影艺术">
+<img src="cases/69/example_silhouette_art.png" width="300" alt="剪影艺术"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
 
@@ -527,7 +962,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/hewarsaber/status/1912933875166171515)
 
-<img src="cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡">
+<img src="cases/68/example_trading_card_logo_tesla.png" width="300" alt="未来主义 Logo 交易卡"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hewarsaber">@hewarsaber</a></sub>
 
 **提示词**
 
@@ -572,7 +1008,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1913648013144137840)
 
-<img src="cases/67/example_Ultra_realistic_3D_game.jpg" width="300" alt="超写实3D游戏">
+<img src="cases/67/example_Ultra_realistic_3D_game.png" width="300" alt="超写实3D游戏"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -597,7 +1034,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175)
 
-<img src="cases/66/example_silk_creation_universe.jpg" width="300" alt="创意丝绸宇宙">
+<img src="cases/66/example_silk_creation_universe.png" width="300" alt="创意丝绸宇宙"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -615,22 +1053,21 @@ retexture the image attached based on the json below:
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-65"></a>
-### 案例 65：Trompe-l'œil 三维空间艺术 (by [@madpencil_](https://x.com/madpencil_))
+### 案例 65：奇幻水下场景冰棒 (by [@madpencil_](https://x.com/madpencil_))
 
-[原文链接](https://x.com/madpencil_/status/1915099250079469907)
+[原文链接](https://x.com/madpencil_/status/1920037538372128998)
 
-<img src="cases/65/example_tromple-I-3d-art.jpg" width="300" alt="Trompe-l'œil 三维空间艺术">
+<img src="cases/65/surreal-underwater-scene-popsicle.png" width="300" alt="奇幻水下场景冰棒"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/madpencil_">@madpencil_</a></sub>
 
 **提示词**
 
 ```
-一幅视错觉风格的画面：人物A[主题/着装]从显示着xyz社交媒体界面的大屏幕中迈步而出。屏幕上可见用户名为“@”，显示1千次点赞、12-20条评论，周围漂浮着[爱心眼、笑脸]表情符号，背景可根据您的喜好自定义。
+倾斜的第一人称视角拍摄，一只手握着一支超现实的冰棒。冰棒有着透明的蓝色外壳，里面展现了一个水下场景：一个小潜水员、几条小鱼和漂浮的气泡，还有翻滚的海浪，一根绿色的冰棒棍贯穿中心。冰棒略微融化，底部是一根木棍，手正握着这根木棍。背景是柔焦的纽约街景，采用高端产品摄影风格。
 ```
 
-*注意： 可替换提示词中的【主题/着装】与[爱心眼、笑脸]。*
 
 
-**案例提交：** [wowmarcomei](https://github.com/wowmarcomei)
 
 ---
 
@@ -641,7 +1078,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png)
 
-<img src="cases/64/example_steampunk_fish.jpg" width="300" alt="蒸汽朋克机械鱼">
+<img src="cases/64/example_steampunk_fish.jpg" width="300" alt="蒸汽朋克机械鱼"><br>
+<sub>Image © 2025 <a href="https://github.com/f-is-h">@f-is-h</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://github.com/f-is-h">@f-is-h</a></sub>
 
 **提示词**
 
@@ -669,7 +1107,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1914574278911000967)
 
-<img src="cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Emoji 奶油雪糕">
+<img src="cases/63/example_ice_cream_emoji_strawberry.png" width="300" alt="Emoji 奶油雪糕"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -690,7 +1129,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/gnrlyxyz/status/1914303110853583302)
 
-<img src="cases/62/example_enamel_pins_pop_culture.jpeg" width="300" alt="可爱珐琅别针">
+<img src="cases/62/example_enamel_pins_einstein.png" width="300" alt="可爱珐琅别针"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gnrlyxyz">@gnrlyxyz</a></sub>
 
 **提示词**
 
@@ -712,7 +1152,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1914299716394778713)
 
-<img src="cases/61/example_fake_tweet_einstein.jpeg" width="300" alt="虚构推文截图 (爱因斯坦)">
+<img src="cases/61/example_fake_tweet_einstein.png" width="300" alt="虚构推文截图 (爱因斯坦)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
 
@@ -732,7 +1173,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/gizakdag/status/1913925062568144924)
 
-<img src="cases/60/example_tufted_rug_dino_emoji.jpeg" width="300" alt="Emoji 簇绒地毯">
+<img src="cases/60/example_tufted_rug_star_emoji.png" width="300" alt="Emoji 簇绒地毯"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **提示词**
 
@@ -753,7 +1195,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/michaelrabone/status/1913865394139316291)
 
-<img src="cases/59/example_vector_poster_london.png" width="300" alt="彩色矢量艺术海报">
+<img src="cases/59/example_vector_poster_london.png" width="300" alt="彩色矢量艺术海报"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/michaelrabone">@michaelrabone</a></sub>
 
 **提示词**
 
@@ -774,7 +1217,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/umesh_ai/status/1913628737872027805)
 
-<img src="cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="云彩艺术">
+<img src="cases/58/example_cloud_art_dragon_great_wall.png" width="300" alt="云彩艺术"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/umesh_ai">@umesh_ai</a></sub>
 
 **提示词**
 
@@ -795,7 +1239,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1913654508330058064)
 
-<img src="cases/57/example_8bit_pixel_burger.jpeg" width="300" alt="8位像素图标">
+<img src="cases/57/example_8bit_pixel_beer.png" width="300" alt="8位像素图标"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
 
@@ -816,7 +1261,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1913759515700285569)
 
-<img src="cases/56/example_miniature_starbucks_cup_building.jpeg" width="300" alt="迷你 3D 建筑">
+<img src="cases/56/example_miniature_starbucks_cup_building.png" width="300" alt="迷你 3D 建筑"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -833,19 +1279,20 @@ retexture the image attached based on the json below:
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-55"></a>
-### 案例 55：低多边形 (Low-Poly) 3D 渲染 (by [@azed_ai](https://x.com/azed_ai))
+### 案例 55：创意绿植花盆 (by [@azed_ai](https://x.com/azed_ai))
 
-[原文链接](https://x.com/azed_ai/status/1912084257918595342)
+[原文链接](https://x.com/azed_ai/status/1923739813414568075)
 
-<img src="cases/55/example_low_poly_lizard.jpeg" width="300" alt="低多边形 (Low-Poly) 风格的 3D 渲染蜥蜴">
+<img src="cases/55/cute_plant_planter.png" width="300" alt="创意绿植花盆"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/azed_ai">@azed_ai</a></sub>
 
 **提示词**
 
 ```
-一个 [subject] 的低多边形 3D 渲染图，由干净的三角形面构成，具有平坦的 [color1] 和 [color2] 表面。环境是一个风格化的数字沙漠，具有极简的几何形状和环境光遮蔽效果。
+一张高质量的照片，展示一个可爱的陶瓷[物体/动物]形状的花盆，表面光滑，里面装满了各种生机勃勃的多肉植物和绿色植物，包括尖刺的十二卷、莲座状的石莲花和精致的白色小花。花盆带有一个友好的面孔，放置在柔和的中性背景上，采用漫射自然光照明，展示了细腻的纹理和色彩对比，构图简洁、极具简约风格。
 ```
 
-*注意： 可替换提示词中的 `[subject]`（要画的对象）、`[color1]` 和 `[color2]`（颜色）以生成不同对象。示例图的subject为蜥蜴，颜色1/2分别为olive green和dusty brown。*
+*注意： 可替换提示词中的 [物体/动物] 为具体的物体、动物名称或表情符号。*
 
 
 
@@ -858,7 +1305,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/jiamimaodashu/status/1912653073190879410)
 
-<img src="cases/54/example_ordinary_selfie_eason_nicholas.jpeg" width="300" alt="“极其平凡”的iPhone自拍">
+<img src="cases/54/example_ordinary_selfie_eason_nicholas.png" width="300" alt="“极其平凡”的iPhone自拍"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/jiamimaodashu">@jiamimaodashu</a></sub>
 
 **提示词**
 
@@ -879,7 +1327,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/gizakdag/status/1912858535643197927)
 
-<img src="cases/53/example_emoji_cushion_pleading.jpeg" width="300" alt="Emoji 充气感靠垫">
+<img src="cases/53/example_emoji_cushion_pleading.png" width="300" alt="Emoji 充气感靠垫"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">@gizakdag</a></sub>
 
 **提示词**
 
@@ -900,7 +1349,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1912521263085482464)
 
-<img src="cases/52/example_paper_craft_emoji_fire.jpeg" width="300" alt="纸艺风格的火焰 Emoji 图标">
+<img src="cases/52/example_paper_craft_emoji_fire.png" width="300" alt="纸艺风格的火焰 Emoji 图标"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
 
@@ -921,7 +1371,8 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/M_w14_/status/1912146666410459618) | [原文链接2](https://x.com/ZHO_ZHO_ZHO/status/1912188562944250035)
 
-<img src="cases/51/example_passport_stamp_rome.jpeg" width="300" alt="护照入境印章">
+<img src="cases/51/example_passport_stamp_rome.png" width="300" alt="护照入境印章"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/M_w14_">@M_w14_</a></sub>
 
 **提示词**
 
@@ -942,7 +1393,8 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/op7418/status/1912782048160542886) | [原文链接2](https://x.com/hc_dsn/status/1912367201476309396)
 
-<img src="cases/50/example_lara_croft_card_break.jpeg" width="300" alt="物理破坏效果卡片 (劳拉)">
+<img src="cases/50/example_lara_croft_card_break.png" width="300" alt="物理破坏效果卡片 (劳拉)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **提示词**
 
@@ -963,7 +1415,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1912536019905233194)
 
-<img src="cases/49/example_fashion_design_cover.jpeg" width="300" alt="时尚杂志封面风格">
+<img src="cases/49/example_fashion_design_cover.png" width="300" alt="时尚杂志封面风格"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -983,7 +1436,8 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/BrettFromDJ/status/1910387413404234076) | [原文链接2](https://x.com/ZHO_ZHO_ZHO/status/1910671581962985788)
 
-<img src="cases/48/example_voxel_icons.jpeg" width="300" alt="体素风格 3D 图标">
+<img src="cases/48/example_voxel_icon.png" width="300" alt="体素风格 3D 图标"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/BrettFromDJ">@BrettFromDJ</a></sub>
 
 **提示词**
 
@@ -996,7 +1450,7 @@ retexture the image attached based on the json below:
 
 *注意： 中文提示词 by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)*
 
-**需上传参考图片：** 需要上传两张图片：一张包含期望体素风格图标的参考图（如推文作者提供），以及一张要转换的原始图标。
+**需上传参考图片：** 体素风格图标的参考图从原文链接1获取；以及一张要转换的原始图标。
 
 
 ---
@@ -1008,7 +1462,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/egeberkina/status/1911368319212408926)
 
-<img src="cases/47/example_esc_keycap_diorama.jpeg" width="300" alt="键盘 ESC 键帽内的微型电脑工作室立体模型">
+<img src="cases/47/example_esc_keycap_diorama.png" width="300" alt="键盘 ESC 键帽内的微型电脑工作室立体模型"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/egeberkina">@egeberkina</a></sub>
 
 **提示词**
 
@@ -1033,7 +1488,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911724629460455896)
 
-<img src="cases/46/example_happy_capsule.png" width="300" alt="快乐胶囊">
+<img src="cases/46/example_happy_capsule.png" width="300" alt="快乐胶囊"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -1056,7 +1512,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1911988003729203648)
 
-<img src="cases/45/example_university_mascot_npu.jpeg" width="300" alt="西北工业大学拟人化3D Q版美少女，体现航空航天航海特色">
+<img src="cases/45/example_university_mascot_npu.png" width="300" alt="西北工业大学拟人化3D Q版美少女，体现航空航天航海特色"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1077,7 +1534,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/berryxia_ai/status/1911334046724165905)
 
-<img src="cases/44/example_rpg_card_designer.png" width="300" alt="RPG 风格角色卡片制作">
+<img src="cases/44/example_rpg_card_designer.png" width="300" alt="RPG 风格角色卡片制作"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/berryxia_ai">@berryxia_ai</a></sub>
 
 **提示词**
 
@@ -1106,7 +1564,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911669883315818497)
 
-<img src="cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Q版可爱俄罗斯套娃">
+<img src="cases/43/example_matryoshka_pearl_earring.png" width="300" alt="Q版可爱俄罗斯套娃"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -1115,7 +1574,7 @@ retexture the image attached based on the json below:
 ```
 
 
-**需上传参考图片：** 需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](./references/Meisje_met_de_parel.jpg))。
+**需上传参考图片：** 需要上传一张人物图片作为转换对象 (原文使用了[《戴珍珠耳环的少女》](https://commons.wikimedia.org/w/index.php?curid=55017931))。
 
 
 ---
@@ -1127,7 +1586,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/balconychy/status/1909908568129655248)
 
-<img src="cases/42/example_3d_q_snowglobe_couple.jpeg" width="300" alt="3D Q版情侣水晶球">
+<img src="cases/42/example_3d_q_snowglobe_couple.png" width="300" alt="3D Q版情侣水晶球"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
 
@@ -1148,7 +1608,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1911609122547449886)
 
-<img src="cases/41/example_miniature_journey_west.jpeg" width="300" alt="Q版孙悟空三打白骨精微型立体场景，移轴摄影风格">
+<img src="cases/41/example_miniature_journey_west.png" width="300" alt="Q版孙悟空三打白骨精微型立体场景，移轴摄影风格"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1169,7 +1630,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/hellokaton/status/1910900979194646959)
 
-<img src="cases/40/example_two_panel_manga_president.jpeg" width="300" alt="日系双格漫画：少女总统因电话未接通而生气加关税">
+<img src="cases/40/example_two_panel_manga_president.png" width="300" alt="日系双格漫画：少女总统因电话未接通而生气加关税"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/hellokaton">@hellokaton</a></sub>
 
 **提示词**
 
@@ -1208,7 +1670,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1905103477879267823)
 
-<img src="cases/39/example_fantasy_computer_head_portal.jpeg" width="300" alt="奇幻卡通插画">
+<img src="cases/39/example_fantasy_computer_head_portal.png" width="300" alt="奇幻卡通插画"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1228,7 +1691,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1907870919852179850)
 
-<img src="cases/38/example_hand_drawn_infographic.jpeg" width="300" alt="手绘信息图卡片">
+<img src="cases/38/example_hand_drawn_infographic.png" width="300" alt="手绘信息图卡片"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1250,20 +1714,21 @@ retexture the image attached based on the json below:
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-37"></a>
-### 案例 37：社交媒体帖子涂鸦 (by [@op7418](https://x.com/op7418))
+### 案例 37：柔和风格3D广告 (by [@aziz4ai](https://x.com/aziz4ai))
 
-[原文链接](https://x.com/op7418/status/1906208691877253536)
+[原文链接](https://x.com/aziz4ai/status/1925301120252924356)
 
-<img src="cases/37/example_social_media_doodle.jpeg" width="300" alt="社交媒体帖子涂鸦">
+<img src="cases/37/pastel_power_3d_ads.png" width="300" alt="柔和风格3D广告"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/op7418">@op7418</a></sub>
 
 **提示词**
 
 ```
-生成图片，把它打印出来，然后用红墨水疯狂地加上手写中文批注、涂鸦、乱画，如果你想的话，还可以加点小剪贴画
+一个柔和的3D卡通风格[品牌产品]雕塑，由光滑的粘土般纹理和鲜艳的柔和色彩制成，放置在简约的等距场景中，该场景与产品特性相得益彰，构图简洁，光线柔和，阴影微妙，产品徽标和三个词的口号清晰显示在下方。
 ```
 
+*注意： 可替换提示词中的 [品牌产品] 为具体的产品描述。*
 
-**需上传参考图片：** 一张照片或者截图。
 
 
 ---
@@ -1275,7 +1740,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1907131027253772399)
 
-<img src="cases/36/example_minimalist_3d_toilet_txt.jpeg" width="300" alt="极简主义 3D 插画">
+<img src="cases/36/example_minimalist_3d_toilet_txt.png" width="300" alt="极简主义 3D 插画"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1333,7 +1799,8 @@ retexture the image attached based on the json below:
 
 [原文链接1](https://x.com/gizakdag/status/1911075302941622512) | [原文链接2](https://x.com/dotey/status/1912276883196039520)
 
-<img src="cases/35/example_fluffy_pumpkin.jpeg" width="300" alt="毛茸茸南瓜灯">
+<img src="cases/35/example_fluffy_pumpkin.png" width="300" alt="毛茸茸南瓜灯"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/gizakdag">gizakdag</a></sub>
 
 **提示词**
 
@@ -1354,7 +1821,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1907903480678985784)
 
-<img src="cases/34/example_hand_drawn_infographic_cognition.jpeg" width="300" alt="手绘信息图卡片">
+<img src="cases/34/example_hand_drawn_infographic_cognition.png" width="300" alt="手绘信息图卡片"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1384,7 +1852,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/balconychy/status/1909426314643222595)
 
-<img src="cases/33/example_family_wedding_photo_q.jpeg" width="300" alt="全家福婚纱照">
+<img src="cases/33/example_family_wedding_photo_q.png" width="300" alt="全家福婚纱照"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
 
@@ -1401,18 +1870,20 @@ retexture the image attached based on the json below:
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-32"></a>
-### 案例 32：纸艺剪贴风格招聘广告 (by [@dotey](https://x.com/dotey))
+### 案例 32：折叠式纸雕立体绘本 (by [@dotey](https://x.com/dotey))
 
-[原文链接](https://x.com/dotey/status/1905021792642564406)
+[原文链接](https://x.com/dotey/status/1923264349050675329)
 
-<img src="cases/32/example_paper_cutout_job_ad.jpeg" width="300" alt="纸艺剪贴风格招聘广告">
+<img src="cases/32/3d_papercraft_popup_book.png" width="300" alt="折叠式纸雕立体绘本"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
 ```
-图像展示了汽车和卡车的专业司机在工作中，呈现出令人印象深刻的城市与乡村行驶速度、积极的团队氛围以及车队的现代化视觉形象——所有这一切都在为司机岗位的招聘做宣传，提供有竞争力的薪酬、灵活的工作时间，并向各类机构发出明确的号召：“今天申请，明天上岗！”
+多层折叠式纸雕立体绘本，放在一张书桌上，背景纯净突出主题，绘本呈现出立体翻页书般的风格，比例为3:2横版。翻开的书页呈现【魔童版哪吒大战敖丙】的场景，所有元素皆可精细折叠组合，呈现出逼真细腻的纸张折叠质感；构图统一采用正面视角，整体视觉风格梦幻唯美，色彩缤纷绚丽，充满奇幻而生动的故事氛围。
 ```
 
+*注意： 请酌情修改中括号【】内的场景描述，也可以增加更多细节。*
 
 
 
@@ -1425,7 +1896,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/richardchang/status/1909086122959139312)
 
-<img src="cases/31/example_naruto_stickers.jpeg" width="300" alt="动漫贴纸集合">
+<img src="cases/31/example_naruto_stickers.png" width="300" alt="动漫贴纸集合"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/richardchang">@richardchang</a></sub>
 
 **提示词**
 
@@ -1445,7 +1917,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1905020833451348283)
 
-<img src="cases/30/example_35mm_moscow_flying_island.jpeg" width="300" alt="35mm 胶片风格飞岛">
+<img src="cases/30/example_35mm_moscow_flying_island.png" width="300" alt="35mm 胶片风格飞岛"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1465,7 +1938,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909892294217781714)
 
-<img src="cases/29/example_pearl_earring_ootd.png" width="300" alt="名画人物 OOTD">
+<img src="cases/29/example_pearl_earring_ootd.png" width="300" alt="名画人物 OOTD"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -1479,7 +1953,7 @@ retexture the image attached based on the json below:
 ```
 
 
-**需上传参考图片：** [《戴珍珠耳环的少女》图片](./references/Meisje_met_de_parel.jpg)。
+**需上传参考图片：** [《戴珍珠耳环的少女》图片](https://commons.wikimedia.org/w/index.php?curid=55017931)。
 
 
 ---
@@ -1491,7 +1965,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1908044836953108490)
 
-<img src="cases/28/example_flat_sticker_pearl_earring.jpeg" width="300" alt="扁平贴纸设计">
+<img src="cases/28/example_flat_sticker_pearl_earring.png" width="300" alt="扁平贴纸设计"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -1512,7 +1987,8 @@ retexture the image attached based on the json below:
 
 [原文链接](https://x.com/dotey/status/1909800530739679488)
 
-<img src="cases/27/example_chibi_emoji_pack.png" width="300" alt="Q 版表情包制作">
+<img src="cases/27/example_chibi_emoji_pack.png" width="300" alt="Q 版表情包制作"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1541,7 +2017,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909542765857587310)
 
-<img src="cases/26/example_master_oats_ad.png" width="300" alt="名画人物麦片广告">
+<img src="cases/26/example_master_oats_ad.png" width="300" alt="名画人物麦片广告"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -1550,7 +2027,7 @@ Aspect ratio: 9:16
 ```
 
 
-**需上传参考图片：** [《戴珍珠耳环的少女》图片](./references/Meisje_met_de_parel.jpg)。
+**需上传参考图片：** [《戴珍珠耳环的少女》图片](https://commons.wikimedia.org/w/index.php?curid=55017931)。
 
 
 ---
@@ -1562,7 +2039,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/0xdlk/status/1906843247432929642)
 
-<img src="cases/25/example_minimalist_3d_toilet.png" width="300" alt="极简主义 3D 插画">
+<img src="cases/25/example_minimalist_3d_toilet.png" width="300" alt="极简主义 3D 插画"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/0xdlk">@0xdlk</a></sub>
 
 **提示词**
 
@@ -1620,7 +2098,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1909047283485671924)
 
-<img src="cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Funko Pop 公仔制作">
+<img src="cases/24/funko-pop-james-bond-figure-and-box.png" width="300" alt="Funko Pop 公仔制作"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1641,7 +2120,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1909916265067557299)
 
-<img src="cases/23/example_titanic_q_realistic.jpeg" width="300" alt="《泰坦尼克号》模仿">
+<img src="cases/23/example_titanic_q_realistic.png" width="300" alt="《泰坦尼克号》模仿"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
 
@@ -1666,7 +2146,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1905507936526627078)
 
-<img src="cases/22/example_notebook_promo.png" width="300" alt="小红书封面">
+<img src="cases/22/example_notebook_promo.png" width="300" alt="小红书封面"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
 
@@ -1699,21 +2180,31 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-21"></a>
-### 案例 21：简笔画表情包 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 21：Q版角色表情包 (by [@leon_yuan2001](https://x.com/leon_yuan2001))
 
-[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1909907741948399873)
+[原文链接](https://x.com/leon_yuan2001/status/1923712069209293014)
 
-<img src="cases/21/example_einstein_stickfigure_emoji.jpeg" width="300" alt="简笔画表情包">
+<img src="cases/21/chibi_character_sticker_pack.png" width="300" alt="Q版角色表情包"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/leon_yuan2001">@leon_yuan2001</a></sub>
 
 **提示词**
 
 ```
-(Step 1) 先将图片中的人物转换为手绘简笔画风格。
-(Step 2) 在此基础上，基于简笔画人物绘制一系列表情包，包括：吐舌头、微笑、皱眉、惊讶、思考、眨眼。
+请创作一套以 [参考图片中的角色] 为主角的Q版表情包，共9个，排列成3x3网格。
+设计要求：
+- 透明背景。
+- 1:1正方形构图。
+- 统一的Q版吉卜力卡通风格，色彩鲜艳。
+- 每个表情的动作、神态、内容各不相同，需要体现“骚、贱、萌、抓狂”等多样情绪，例如：翻白眼、捶地狂笑、灵魂出窍、原地石化、撒钱、干饭状态、社交恐惧发作等。可融入打工人和网络热梗元素。
+- 每个表情形象完整，无残缺。
+- 每个表情均带有统一的白色描边，呈现贴纸效果。
+- 画面中无多余、分离的元素。
+- 严格禁止出现任何文字，或确保文字内容准确无误（优先选择无文字）。
 ```
 
+*注意： 请将提示词中的“[参考图片中的角色]”替换为对角色特征的具体描述，或直接上传参考图片。*
 
-**需上传参考图片：** 一张人物照片。
+**需上传参考图片：** 需要上传一张角色图片作为表情包创作的主要参考。
 
 
 ---
@@ -1721,18 +2212,20 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-20"></a>
-### 案例 20：四格漫画 (相对论) (by [@dotey](https://x.com/dotey))
+### 案例 20：手办与真人同框 (by [@dotey](https://x.com/dotey))
 
-[原文链接](https://x.com/dotey/status/1904980568107819060)
+[原文链接](https://x.com/dotey/status/1920994118580183316)
 
-<img src="cases/20/example_relativity_manga.jpeg" width="300" alt="四格漫画 (相对论)">
+<img src="cases/20/action_figure_and_real_person_in_frame.png" width="300" alt="手办与真人同框"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
 ```
-制作一页色彩丰富的漫画，用来描述相对论理论，并加入一些幽默元素。
+以手机随手拍摄的日常风格，桌面上摆放着一款 【成龙】动漫手办，动作夸张帅气，装备齐全。同时，真实世界的对应人物也出现在镜头中，与手办摆出相似的姿势，形成手办与真实人物同框的有趣对比效果。整体构图和谐自然，传递温暖且富有生活气息的视觉体验。
 ```
 
+*注意： 提示词中的【成龙】可以替换为任何你想要的手办角色名称，也可以是其他类型的角色。*
 
 
 
@@ -1741,20 +2234,21 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-19"></a>
-### 案例 19：语文课本重绘 (by [@balconychy](https://x.com/balconychy))
+### 案例 19：玩具盒中的国家立体模型 (by [@TheRelianceAI](https://x.com/TheRelianceAI))
 
-[原文链接](https://x.com/balconychy/status/1906982626365178361)
+[原文链接](https://x.com/TheRelianceAI/status/1925223613055017251)
 
-<img src="cases/19/example_textbook_redraw.jpeg" width="300" alt="语文课本重绘">
+<img src="cases/19/country_diorama_in_toy_box.png" width="300" alt="玩具盒中的[国家名称]立体模型"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/TheRelianceAI">@TheRelianceAI</a></sub>
 
 **提示词**
 
 ```
-重绘语文课本插画
+一张超写实的俯拍摄影作品，展示了一个米色纸板盒内的3D打印立体模型，盒盖由两只人手撑开。盒子内部展现了[国家名称]的微缩景观，包含标志性地标、地形、建筑、河流、植被以及大量微小精细的人物模型。该立体模型充满了鲜活且符合地理特征的元素，全部采用触感舒适、玩具般的风格，使用哑光3D打印纹理制作，并带有可见的打印层纹。在顶部，盒盖内侧用大号、色彩鲜艳的凸起塑料字母显示“[国家名称]”字样——每个字母颜色各异，均为亮色。光线温暖且具有电影感，突出了纹理和阴影，营造出一种真实感和魅力，仿佛观看者正在打开一个神奇的国家微缩版本。
 ```
 
+*注意： 请将提示词中的 `[国家名称]` 替换为具体的国家名称。*
 
-**需上传参考图片：** 一张原课本插画。
 
 
 ---
@@ -1766,7 +2260,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://animeai.online/#demo-gallery)
 
-<img src="cases/18/pixar-style-godfather-scene.png" width="300" alt="皮克斯3D风格《教父》">
+<img src="cases/18/pixar-style-godfather-scene.png" width="300" alt="皮克斯3D风格《教父》"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
 
 **提示词**
 
@@ -1783,20 +2278,21 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-17"></a>
-### 案例 17：数码宝贝风格图 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 17：复古CRT电脑启动屏幕 (by [@Gdgtify](https://x.com/Gdgtify))
 
-[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911001291280859559)
+[原文链接](https://x.com/Gdgtify/status/1925176250626159053)
 
-<img src="cases/17/example_digimon_style.jpeg" width="300" alt="数码宝贝风格图">
+<img src="cases/17/retro_crt_computer_boot_screen.png" width="300" alt="复古CRT电脑启动屏幕"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Gdgtify">@Gdgtify</a></sub>
 
 **提示词**
 
 ```
-为我生成一张数码宝贝风格的图片，并为我匹配一只数码宝贝
+复古CRT电脑启动屏幕，最终显示为[形状或标志]的ASCII艺术。
 ```
 
+*注意： 可替换提示词中的 [形状或标志] 为具体的形状或标志描述，例如上海天际线*
 
-**需上传参考图片：** 一张单人照片。
 
 
 ---
@@ -1804,19 +2300,24 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-16"></a>
-### 案例 16：布丁老虎机 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 16：二次元风格徽章 (by [@Alittlefatwhale](https://x.com/Alittlefatwhale))
 
-[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1911107569898471818)
+[原文链接](https://x.com/Alittlefatwhale/status/1922512847030124905)
 
-<img src="cases/16/example_pudding_slot.jpeg" width="300" alt="布丁老虎机">
+<img src="cases/16/anime_style_badge.png" width="300" alt="二次元风格徽章"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/Alittlefatwhale">@Alittlefatwhale</a></sub>
 
 **提示词**
 
 ```
-将图标[🎰]变成美味可口布丁造型，Q弹质感，背景粉白渐变，整体甜美、轻盈、可爱
+基于附件中的人物，生成一个二次元风格的徽章的照片，要求：
+材质：流苏
+形状：圆形
+画面主体：一只手手持徽章
 ```
 
 
+**需上传参考图片：** 需要上传一张人物照片作为徽章图案的参考。
 
 
 ---
@@ -1828,7 +2329,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1905287637084274742)
 
-<img src="cases/15/example_gpt_involution_poster.png" width="300" alt="讽刺海报生成">
+<img src="cases/15/example_gpt_involution_poster.png" width="300" alt="讽刺海报生成"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -1848,7 +2350,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1909047547563213145)
 
-<img src="cases/14/example_one_piece_figure_creation.png" width="300" alt="《海贼王》主题手办制作">
+<img src="cases/14/example_one_piece_figure_creation.png" width="300" alt="《海贼王》主题手办制作"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1870,7 +2373,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1908194518345678865)
 
-<img src="cases/13/example_photo_to_3d_q.png" width="300" alt="3D Q版风格">
+<img src="cases/13/example_photo_to_3d_q.png" width="300" alt="3D Q版风格"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1891,7 +2395,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1909332895115714835)
 
-<img src="cases/12/example_3d_collectible_couple_box.jpeg" width="300" alt="3D 情侣珠宝盒摆件">
+<img src="cases/12/example_3d_collectible_couple_box.png" width="300" alt="3D 情侣珠宝盒摆件"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1915,7 +2420,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1904978767090524372)
 
-<img src="cases/11/example_ps2_gta_shrek.jpeg" width="300" alt="PS2 游戏封面 (GTA x Shrek)">
+<img src="cases/11/example_ps2_gta_shrek.png" width="300" alt="PS2 游戏封面 (GTA x Shrek)"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1935,7 +2441,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1910514811756065159)
 
-<img src="cases/10/example_maga_hat_cartoon.jpeg" width="300" alt="讽刺漫画生成">
+<img src="cases/10/example_maga_hat_cartoon.png" width="300" alt="讽刺漫画生成"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -1951,20 +2458,33 @@ Aspect ratio: 9:16
 [⬆️ 返回案例目录](#cases-toc)
 
 <a id="cases-9"></a>
-### 案例 9：气球名画 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+### 案例 9：极简未来主义海报 (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
-[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910976632141267237)
+[原文链接](https://x.com/ZHO_ZHO_ZHO/status/1921906728763105394)
 
-<img src="cases/9/example_pearl_earring_balloon.jpeg" width="300" alt="氦气球名画">
+<img src="cases/9/minimalist_futurist_poster.png" width="300" alt="极简未来主义海报"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
 ```
-将图片中的人物变成玩偶形状的氦气球
+一张纵向（3∶4）4K 分辨率的极简未来主义展览海报，背景为超浅冷灰 #f4f4f4。
+
+海报中心有一枚流体 3D metaball，形态为【立体可口可乐经典汽水瓶】，材质磨砂玻璃并带细腻颗粒噪点。 流体渐变：Coca-Cola 红 #E41C23 → 珍珠白 #FFFFFF，呈现丝滑玻璃质感。
+
+高位 softbox 柔光照明，投射长而柔的彩色阴影与淡淡光晕。
+
+流体叠在文字之上，被遮挡的字母透过磨砂玻璃呈轻微高斯模糊。
+
+· 主标题 “Coca-Cola” 经典红色 logo 位于中部，被唯一的流体部分遮挡；被遮挡的字母透过磨砂玻璃呈轻微高斯模糊。
+
+· 副标题，Modern sans-serif 粗体全大写纯黑字体： “TASTE THE FEELING” 位于主标题下方，同样被流体局部覆盖并产生模糊，其余部分锐利。
+
+整体留白干净、构图平衡、焦点锐利、HDR 高动态范围。
 ```
 
+*注意： 提示词中的【立体可口可乐经典汽水瓶】可以替换为其他物品的描述，以生成不同主题的海报。*
 
-**需上传参考图片：** 一张半身或者全身单人照片。
 
 
 ---
@@ -1976,7 +2496,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910644499354968091)
 
-<img src="cases/8/example_lego_collectible.jpeg" width="300" alt="乐高收藏品">
+<img src="cases/8/example_lego_collectible.png" width="300" alt="乐高收藏品"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -2005,7 +2526,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/ZHO_ZHO_ZHO/status/1910698005193515370)
 
-<img src="cases/7/example_personalized_room.png" width="300" alt="个性化房间设计">
+<img src="cases/7/example_personalized_room.png" width="300" alt="个性化房间设计"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/ZHO_ZHO_ZHO">@ZHO_ZHO_ZHO</a></sub>
 
 **提示词**
 
@@ -2026,12 +2548,13 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1908910838636765204)
 
-<img src="cases/6/example_portal_crossing_handhold.jpeg" width="300" alt="角色穿越传送门">
+<img src="cases/6/example_portal_crossing_handhold.png" width="300" alt="角色穿越传送门"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
 ```
-照片中的角色的 3D Q 版形象穿过传送门，牵着观众的手，在将观众拉向前时动态地回头一看。传送门外的背景是观众的现实世界，一个典型的程序员的书房，有书桌，显示器和笔记本电脑，传送门内是角色所处的3D Q 版世界，细节可以参考照片，整体呈蓝色调，和现实世界形成鲜明对比。传送门散发着神秘的蓝色和紫色色调，是两个世界之间的完美椭圆形框架处在画面中间。从第三人称视角拍摄的摄像机角度，显示观看者的手被拉入角色世界。3：2 的宽高比。
+照片中的角色的 3D Q 版形象穿过传送门，牵着观众的手，在将观众拉向前时动态地回头一看。传送门外的背景是观众的现实世界，一个典型的程序员的书房，有书桌，显示器和笔记本电脑，传送门内是角色所处的3D Q 版世界，细节可以参考照片，整体呈蓝色调，和现实世界形成鲜明对比。传送门散发着神秘的蓝色和紫色色调，是两个世界之间的完美椭圆形框架处在画面中间。从第三人称视角拍摄的摄像机角度，显示观看者的手被拉入角色世界。2：3 的宽高比。
 ```
 
 
@@ -2047,7 +2570,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://animeai.online/#demo-gallery)
 
-<img src="cases/5/ghibli-style-mona-lisa.png" width="300" alt="吉卜力风格《蒙娜丽莎》">
+<img src="cases/5/ghibli-style-mona-lisa.png" width="300" alt="吉卜力风格《蒙娜丽莎》"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://animeai.online">AnimeAI</a></sub>
 
 **提示词**
 
@@ -2069,7 +2593,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1909418699150237917)
 
-<img src="cases/4/example_q_chinese_wedding.jpeg" width="300" alt="3D Q版中式婚礼图">
+<img src="cases/4/example_q_chinese_wedding.png" width="300" alt="3D Q版中式婚礼图"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
 
@@ -2090,7 +2615,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1905251524248248650)
 
-<img src="cases/3/example_vintage_poster.jpeg" width="300" alt="复古宣传海报">
+<img src="cases/3/example_vintage_poster.png" width="300" alt="复古宣传海报"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -2110,7 +2636,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/dotey/status/1908238003169903060)
 
-<img src="cases/2/example_polaroid_breakout.png" width="300" alt="3D Q版人物立体相框">
+<img src="cases/2/example_polaroid_breakout.png" width="300" alt="3D Q版人物立体相框"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/dotey">@dotey</a></sub>
 
 **提示词**
 
@@ -2131,7 +2658,8 @@ Aspect ratio: 9:16
 
 [原文链接](https://x.com/balconychy/status/1909417750587486469)
 
-<img src="cases/1/example_proposal_scene_q_realistic.jpeg" width="300" alt="Q版求婚场景">
+<img src="cases/1/example_proposal_scene_q_realistic.png" width="300" alt="Q版求婚场景"><br>
+<sub>Image © 2025 <a href="https://github.com/jamez-bondos">@jamez-bondos</a>, <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> • Prompt by <a href="https://x.com/balconychy">@balconychy</a></sub>
 
 **提示词**
 
@@ -2175,6 +2703,7 @@ Aspect ratio: 9:16
 1. [提示词高手们到底是怎么发现 GPT-4o 画图新玩法的？](https://baoyu.io/blog/gpt-4-image-generation-new-tricks) by [@dotey](https://x.com/dotey)
 2. [Prompt Engineering (PDF)](https://s.baoyu.io/files/2025-01-18-pdf-1-TechAI-Goolge-whitepaper_Prompt%20Engineering_v4-af36dcc7a49bb7269a58b1c9b89a8ae1.pdf) by Google
 3. [Prompt Engineering 简体中文翻译版](https://baoyu.io/blog/google-prompt-engineering-whitepaper) by [@dotey](https://x.com/dotey)
+4. [如何轻松写出好用的提示词模板？](https://baoyu.io/blog/how-to-write-prompt-templates) by [@dotey](https://x.com/dotey)
 
 
 
@@ -2217,6 +2746,12 @@ Aspect ratio: 9:16
 *   [Anima (@Anima_Labs)](https://x.com/Anima_Labs)
 *   [terry623 (@terry623)](https://github.com/terry623)
 *   [photis (Sora Profile)](https://sora.com/explore?user=user-sydD5ZkXZsDaL0BriQa010dQ)
+*   [Ryan Hart (@thisdudelikesAI)](https://x.com/thisdudelikesAI)
+*   [Gadgetify (@Gdgtify)](https://x.com/Gdgtify)
+*   [Ilyas Salaoui (@TheRelianceAI)](https://x.com/TheRelianceAI)
+*   [Leon (@leon_yuan2001)](https://x.com/leon_yuan2001)
+*   [AZIZ | AI (@aziz4ai)](https://x.com/aziz4ai)
+*   [小肥鲸 (@Alittlefatwhale)](https://x.com/Alittlefatwhale)
 *   以及其他可能通过转推或间接分享而被收录其提示词的创作者们。
 
 如果您的作品被收录在此，而您希望更改署名或将其移除，请随时与我们联系。✉️
